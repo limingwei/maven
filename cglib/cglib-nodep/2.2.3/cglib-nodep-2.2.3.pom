@@ -18,14 +18,6 @@
     <connection>scm:cvs:pserver:anonymous@cglib.cvs.sourceforge.net:/cvsroot/cglib:cglib</connection>
     <url>http://cglib.cvs.sourceforge.net/cglib</url>
   </scm>
-  <dependencies>
-    <dependency>
-      <groupId>ant</groupId>
-      <artifactId>ant</artifactId>
-      <version>1.6.2</version>
-      <optional>true</optional>
-    </dependency>
-  </dependencies>
   <developers>
     <developer>
       <id>baliuka</id>
