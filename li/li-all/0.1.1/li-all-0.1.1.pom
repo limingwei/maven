@@ -29,11 +29,13 @@
 			<groupId>li</groupId>
 			<artifactId>li-core</artifactId>
 			<version>0.1.1</version>
+			<scope>runtime</scope>
 		</dependency>
 		<dependency>
 			<groupId>li</groupId>
 			<artifactId>li-more</artifactId>
 			<version>0.1.1</version>
+			<scope>runtime</scope>
 		</dependency>
 	</dependencies>
 </project>
